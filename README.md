@@ -14,7 +14,7 @@ A simple React application that converts one currency to another using real-time
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-currency-converter.git
+git clone https://github.com/sntripathi180/currencyConverter.git
 
 # Navigate into the project folder
 cd react-currency-converter
